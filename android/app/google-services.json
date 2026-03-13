@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980235428869",
+    "project_id": "chatkaro-cf9b8",
+    "storage_bucket": "chatkaro-cf9b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980235428869:android:7c868fe7feb6732fb6e86c",
+        "android_client_info": {
+          "package_name": "com.chatkaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3HfziDtRUGOfK8BkPi5W4gorrso63hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
