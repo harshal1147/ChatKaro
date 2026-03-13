@@ -18,7 +18,7 @@ import firestore from '@react-native-firebase/firestore';
 import auth from '@react-native-firebase/auth';
 import { launchImageLibrary } from 'react-native-image-picker';
 
-const GEMINI_API_KEY = 'AIzaSyDV5sv0UV9poJOGD06cJeFDqd7dnrm1-4E';
+const GEMINI_API_KEY = GEMINI_API_KEY;
 const AI_EMAIL = 'AI_CHATTER';
 
 export default function ChatScreen({ user, onBack }) {
